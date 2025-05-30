@@ -11,13 +11,6 @@ Dataset: kazakh-corpus2
 
 Training Strategy: Parameter-efficient fine-tuning with LoRA adapters.
 
-🧩 Repository Structure
-📂 orpheus-kazakh-finetune/
-├── orpheus_3B_fine_tuning_kz_vX.ipynb   # Jupyter notebook for fine-tuning
-├── requirements.txt                     # List of required Python packages
-├── README.md                            # You're here!
-├── LICENSE                              # Apache 2.0 License (recommended)
-
 ⚙️ Fine-Tuning Configuration
 | Parameter              | Value                                                                       |
 | ---------------------- | --------------------------------------------------------------------------- |
